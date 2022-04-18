@@ -12,5 +12,5 @@ channelAccessToken = YOUR_CHANNEL_ACCESS_TOKEN
 ## Remark
 ```
 use heroku create web-webhook
-<a href="http://google.com/" target="_blank">link</a>
+[我是超連結](https://kater.me)
 ```
